@@ -1,0 +1,2 @@
+# bashconfig
+Personal bashrc configs
