@@ -3,7 +3,7 @@ CURRENT_DIR=`pwd`
 
 # Moves old dirs, creating backups
 if [ -f ~/.bashrc ]; then
-	mv -f ~/.bashrc ~/.bashrc
+	mv -f ~/.bashrc ~/.bashrc.bk
 fi
 
 # create simlinks for the current dir
